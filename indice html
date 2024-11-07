@@ -1,0 +1,53 @@
+<html lang="pt-BR">
+
+<head>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap"
+        rel="stylesheet">
+    <title>Gutitle>
+</head>
+
+<body>
+    <header>GUIMINAMFLIX</header>
+
+    <section class="chamada">
+        <div class="chamada-texto">
+            <h1>ATRAVÉS DO ARANHAVERSO</h1>
+            <p>#homem-aranha</p>
+        </div>
+
+        <div>
+            <iframe width="560" height="315" src="htthttps://youtu.be/ZlzpXR9xT78?si=16UD6J-W_D-PXPFQ
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+    </section>
+
+    <section class="categoria">
+        <h2>Filmes e séries</h2>
+        <div class="categoria-videos">
+            <a href="hhttps://youtu.be/YA_sVvJKyXs?si=U17hH3S4d6XolM7a
+                <img src="hhttps://youtu.be/Z-xghWf9eAw?si=7cRJ5A4blMILcdCZ
+            </a>
+            <a href="hhttps://youtu.be/ADxuv3Pn5Aw?si=69uiCfWFcJIUZhEv
+                <img src="hhttps://youtu.be/3cTLW3DpBic?si=xC1ls6v_-7tjOat6
+            </a>
+            <a href="hhttps://youtu.be/tpzB3pp-G9Y?si=8BaaH6mhFe4jmGlq
+                <img src="hhttps://youtu.be/uiAQ_rN8ykk?si=dfk6THM8Aq_glnB1
+            </a>
+            <a href="hhttps://youtu.be/RcJnVmh2uW4?si=qwTlQxYCYxSHrJ_-
+                <img src="hhttps://youtu.be/7uaojiGCfhU?si=CjfmgrjeMX3Yn0Sz
+            </a>
+            <a href="hhttps://youtu.be/NpCvp__FJRo?si=7MsZ3qs84uiigQpP
+                <img src="hhttps://youtu.be/7uaojiGCfhU?si=0pIvjS1n4pHyb26V
+            </a>
+        </div>
+    </section>
+
+</body>
+
+</html>
